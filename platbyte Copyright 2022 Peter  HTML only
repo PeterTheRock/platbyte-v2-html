@@ -5,35 +5,62 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- I still need to add alot of features to Plat-Byte but I am working alone and working as fast as I can -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plat-Byte</title>
-    <link rel="stylesheet" href="dinner.css">
+    <title>Plat-Bytes™</title>
+    <link rel="stylesheet" href="platbytes.css">
+    <script src="platbyescript.js"></script>
 </head>
-<body style="background-color: rgb(66, 65, 71);">
+<body style="background">
     <div class="container">
     <header><img src="platbytelogo.jpeg" alt="platbyte official logo"> </header>
     <nav> 
-        <a href="#">HOME</a><a href="#">MERCHANDISE</a><a href="#">STICKERS</a><a href="#">SHOUT</a><a href="#">CONTACT US</a><a href="#">ABOUT US</a>
+        <a href="#">HOME</a><a href="#">MERCHANDISE</a><a href="#">STICKERS</a><a href="FAQplatbyte.html">FAQ</a><a href="#">PURCHASE SHOUTOUT</a><a href="#">ABOUT US</a>
     </nav>
     <main>
-    <h2>Welcome To Plat-Byte</h2>   
-    <p>Plat-Byte is a community driven forum based on popular topics</p>
-    <p>The ability to say what you want when you want is important as it is the foundation of Plat-Byte. </p> 
-    <p class="para1"> anyone can post comments and share images. There are boards dedicated to a variety of topics, from Japanese animation and culture to videogames, music, and photography. Users do not need to register an account before participating in the community. Feel free to click on a board below that interests you and jump right in!
+    <h2>Welcome To Plat-Bytes</h2>   
+    <p>Plat-Bytes is a community driven forum based on popular topics</p>
+    <p>The ability to say what you want when you want is important as it is the foundation of Plat-Bytes. </p> 
+    <p class="para1"> anyone can post comments and share images. <em> There are Threads dedicated to a variety of topics, from Japanese animation and culture to videogames, music, and Software Developement. Users are not required to register an account before participating in the community. Click on any thread below to start a discussion.</em>
     </p>
-    <div class="usershoutoutdiv">
-     
+    <div class="topplatbyteuser">
+     <H1 class="topusertextstyling">THIS IS THE TOP USER</H1>
         </div>
     <a href="dietingregime.html" target="">
         <p>Learn more about Plat-Bytes Creator</p>
     </a>
-    <p>TOPIC SECTION</p>
+    <p class="usercommentsectionfont">TOP USER COMMENTS SECTION</p>
+  
     </main>
-    <div class="thenewdiv">
-       <ul>
-           <li>Agriculture</li>
-           <li>Farming</li>
-           <li>Land</li>
-       </ul>
+    <div class="usershoutoutdiv">
+        <ul class="commentsthree">
+            <br>
+            <li>First user comment</li>
+            <br>
+            <li>Second user comment</li>
+            <br>
+            <li>Third user comment</li>
+        </ul>
+    </div>
+    <div class="mainarticle">
+        
+ 
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
     </div>
     <footer><p>South Africa Registered LTD <br> For any suggestions contact us at <a href="mailto:Vonduschglobal@gmail.com?subject=Bugs&Improvements" class="contactemail">Vonduschglobal@gmail.com</a> <br> Copyright 2022©</p>
             
