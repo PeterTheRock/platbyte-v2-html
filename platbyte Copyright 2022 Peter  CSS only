@@ -1,0 +1,120 @@
+
+
+
+img{
+    height: 118px;
+
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    
+}
+header{
+    
+    height: 118px;
+    text-align: center;
+}
+nav{
+    background-color: rgba(255, 255, 255, 0.575);
+    /* height: 30px; */
+    text-align: center;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+main{
+   
+    height: 500px;
+    text-align: center;
+}
+footer{
+    
+    height: 90px;
+}
+h2{
+   
+    font-size: 50px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+a{
+    color: wheat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* text-decoration: none; */
+}
+body{
+    background-image: linear-gradient(gray,rgb(53, 46, 46));
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav a{
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/* nav a is a custom word used in text decoration of hyperlinks */
+/* just add nav, main, footer followed by the element you want to bulk css */
+footer{
+    background-color: rgba(0, 0, 0, 0.384);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 10px;
+    height: fit-content;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+   
+}
+.contactemail{
+    color: black;
+}
+.usershoutoutdiv{
+    background-color: aliceblue;
+     display: block; 
+    height: 150px;
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.para1{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.topplatbyteuser{
+    display: block;
+    background-color: wheat;
+    width: 50%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.usercommentsectionfont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mainarticle{
+    background-color: rgb(189, 52, 52);
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.commentsthree {
+   height: fit-content;
+   justify-content: space-between;
+    
+}
+.topusertextstyling {
+   padding-top: 2rem;
+}
