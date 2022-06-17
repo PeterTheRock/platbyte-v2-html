@@ -1,75 +1,30 @@
-<!DOCTYPE html>
+   <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- I still need to add alot of features to Plat-Byte but I am working alone and working as fast as I can -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plat-Bytes™</title>
-    <link rel="stylesheet" href="platbytes.css">
-    <script src="platbyescript.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>Viewspace</title>
 </head>
-<body style="background">
-    <div class="container">
-    <header><img src="platbytelogo.jpeg" alt="platbyte official logo"> </header>
-    <nav> 
-        <a href="#">HOME</a><a href="#">MERCHANDISE</a><a href="#">STICKERS</a><a href="FAQplatbyte.html">FAQ</a><a href="#">PURCHASE SHOUTOUT</a><a href="#">ABOUT US</a>
-    </nav>
-    <main>
-    <h2>Welcome To Plat-Bytes</h2>   
-    <p>Plat-Bytes is a community driven forum based on popular topics</p>
-    <p>The ability to say what you want when you want is important as it is the foundation of Plat-Bytes. </p> 
-    <p class="para1"> anyone can post comments and share images. <em> There are Threads dedicated to a variety of topics, from Japanese animation and culture to videogames, music, and Software Developement. Users are not required to register an account before participating in the community. Click on any thread below to start a discussion.</em>
-    </p>
-    <div class="topplatbyteuser">
-     <H1 class="topusertextstyling">THIS IS THE TOP USER</H1>
-        </div>
-    <a href="dietingregime.html" target="">
-        <p>Learn more about Plat-Bytes Creator</p>
-    </a>
-    <p class="usercommentsectionfont">TOP USER COMMENTS SECTION</p>
-  
-    </main>
-    <div class="usershoutoutdiv">
-        <ul class="commentsthree">
-            <br>
-            <li>First user comment</li>
-            <br>
-            <li>Second user comment</li>
-            <br>
-            <li>Third user comment</li>
-        </ul>
-    </div>
-    <div class="mainarticle">
-        
- 
-        
-        
+<body style="background-color:dodgerblue;">
+    <h1 style="color:white; text-align:center;">VIEWSPACE</h1>
+    <h3 style="color:red;">NB!! Currently this website is just for viewing any information that is available to the developers, we will be adding the feature to post comments and create your own profile later on in the year </h3>
+    <h1>This is currently an information based website </h1>
+    <h1 style="display:inline;" >This website is currently managed by </h1><h1 style="display:inline; color:orange;">Peter Hendricks</h1>
+    <br>
     
-    
-    
-    
-    
-    
-    
-    
-    
+    <h2>Welcome to Viewspace Community Forums for all the information you will ever need</h2>
+    <p style="text-align:center;">You can learn about the following topics</p>
+    <ul style="text-align:center; ">
+       <a href="southAfricanHeritage.php"><li style="color:black;">Online Threads</li></a>
+       <a href="capeTown.php"><li style="color:black;">Whats Trending</li></a>
+       <a href="postComment.php"><li style="color:black;">Comment Section</li></a>
+    </ul>
 
-    
-    
-    
-    
-    
-    
-    </div>
-    <footer><p>South Africa Registered LTD <br> For any suggestions contact us at <a href="mailto:Vonduschglobal@gmail.com?subject=Bugs&Improvements" class="contactemail">Vonduschglobal@gmail.com</a> <br> Copyright 2022©</p>
-            
-    </footer>
-    <!-- this is my first website I have built and taken seriously -->
-</div>
-
-    
 </body>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </html>
-<!-- if you have any questions feel free to email me at peterhendricks1997@gmail.com -->
-<!-- remember comments are created using cntrl+forward slash -->
